@@ -20,6 +20,6 @@ cd vote_crawler
 python vote_crawler.py
 ```
 
-结果会已表格的形式在控制台输出：
+结果会以表格的形式在控制台输出：
 
 ![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/vote_scrapy.png)
